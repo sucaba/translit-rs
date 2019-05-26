@@ -2,6 +2,7 @@ mod gost779;
 mod passport2013;
 mod transliterator;
 mod bulgarian;
+pub mod ukrainian;
 
 #[cfg(test)]
 mod tests;
